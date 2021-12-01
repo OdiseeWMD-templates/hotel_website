@@ -13,7 +13,7 @@ Wat moet er allemaal gebeuren?
   - Je mag dit zelf ontwerpen
   - Je mag een logo op internet zoeken (je mag dan de naam van ons hotel meteen ook aanpassen…)
 - Ga op zoek naar foto’s (normaal neem je deze zelf uiteraard, maar nu is het fictief): zorg er voor dat de stijl van de foto’s matcht met de stijl van je website en je logo
-- Zorg voor een deftige menu-structuur. Ik wil graag onderstaande zaken allemaal vermeld zien, maar het is aan jou om dit te structureren tot een passend geheel.
+- Zorg voor een deftige menu-structuur. De klant wil graag onderstaande zaken allemaal vermeld zien, maar het is aan jou om dit te structureren tot een passend geheel.
   - Algemene welkomstpagina met enkele sfeerfoto’s.
   - Pagina met een beschrijving van de verschillende kamers.
     - Een overzichtspagina of aparte detailpagina’s? Kies maar.
