@@ -1,0 +1,30 @@
+###
+# getReviews geeft de laatste 20 reviews terug gesorteerd op datum
+###
+GET https://hotelharmonie.azurewebsites.net/api/getReviews HTTP/1.1
+
+
+###
+# getReviews geeft reviews terug. Met de parameters limit en offset kan je bepalen welke reviews je terug wilt
+# limit is een beperking van het aantal reviews
+# offset bepaald vanaf welke review je wilt beginnen 
+###
+GET https://hotelharmonie.azurewebsites.net/api/getReviews?limit=5&offset=2 HTTP/1.1
+
+
+###
+# Met insertReview kan je een nieuwe review toevoegen.
+# Deze api call verwacht een body met json data.
+# 
+# Indien de data niet klopt of mist, wordt er een error teruggeven.
+###
+POST https://hotelharmonie.azurewebsites.net/api/insertReview HTTP/1.1
+
+{
+"firstname": "Matthias",
+"lastname": "Druwé",
+"email": "matthias.druwe@odisee.be",
+"score": 10,
+"title": "goed hotel",
+"description":"Omnis molestiae iste labore quam consectetur debitis. Dolor laboriosam facilis eligendi veniam repudiandae. Quia officia autem deserunt."
+}
