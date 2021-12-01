@@ -36,7 +36,7 @@ Wat moet er allemaal gebeuren?
   - Een contactpagina, met een integratie van een map
   - Uiteraard vermeldingen rond onze corona-maatregelen
   - Voorzie een pagina waar klanten reviews kunnen lezen en achterlaten.
-    - Maak hiervoor gebruik van de meegeleverde API.
+    - Maak hiervoor gebruik van de meegeleverde [API](api.http).
 
 ## Aandachtspunten
 De klant verwacht een afgewerkte website denk dus ook zeker aan onderstaande punten:
