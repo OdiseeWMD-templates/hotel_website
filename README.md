@@ -21,9 +21,9 @@ Wat moet er allemaal gebeuren?
     - Apart restaurant voor diner,
     - Apart restaurant voor ontbijt ,
     - Ons terras buiten.
-  - We hebben een prachtige welness met een binnenzwembad, een sauna, een hottube buiten en diverse massages
-  - Integreer een API voor het weer (voorspelling van enkele dagen). Altijd leuk voor last-minutes en een weekendje weg.
-  - Iets rond last-minute-deals (verwerken in de kortingscode – zie hieronder?)
+  - We hebben een prachtige wellness met een binnenzwembad, een sauna, een hottub buiten en diverse massages
+  - Integreer een API (die je ergens online kiest) voor het weer (voorspelling van enkele dagen). Altijd leuk voor last-minutes en een weekendje weg.
+  - Iets rond last-minute-deals (verwerken in de kortingscode – zie hieronder)
   - Een kalender waarop je kan zien welke kamers nog vrij zijn op bepaalde dagen. (dit hoeft niet van een api te komen)
   - Een soort reservatiesysteempje die de prijs berekent
     - Kiezen van een kamertype
