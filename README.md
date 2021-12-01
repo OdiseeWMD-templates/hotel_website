@@ -69,4 +69,4 @@ Je kan je website online plaatsen met behulp van combell (hosting door de school
 * Werk individueel! Dit is een individuele opdracht. Elke vorm van samenwerken wordt beschouwd als fraude.
 
 ## Deadline
-Zie Toledo
+09/01/2022 23:59 
